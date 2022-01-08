@@ -11,3 +11,6 @@ Equity Residential has 284 apartment complexes across the United States and ever
 
 From these fields a unique ID is generated, allowing me to track how Equity Residential's pricing algorithm works. 
 
+# What Makes This Project Special
+
+As far as I'm aware, this is one of the more thorough datasets containing rent data. The biggest feature is the inclusion of a daily estimated vacancy figure. This field allows for a more thorough examination of Equity Residential's pricing algorithm. 
