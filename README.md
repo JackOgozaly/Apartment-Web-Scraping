@@ -9,7 +9,7 @@ Hello! This project is my attempt to collect apartment data from Equity Resident
 
 Equity Residential has 284 apartment complexes across the United States and every apartment listing follows a standard-ish format. Everyday, this webscraper collects all the important info from every listing, such as Price, Beds, Baths, etc., and then cleanly puts the data into a dataframe. On averge, there are 3,700 listing collected each day.
 
-![grab-landing-page](https://github.com/JackOgozaly/Apartment-Web-Scraping/blob/main/web_scraping_animated.gif)
+![grab-landing-page](https://github.com/JackOgozaly/Apartment-Web-Scraping/blob/main/Graphs/web_scraping_animated.gif?raw=true)
 
 From these fields a unique ID is generated, allowing me to track how Equity Residential's pricing algorithm works. 
 
